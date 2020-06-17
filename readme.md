@@ -3,7 +3,8 @@
 
 ## changes
 - Optional Fullbright
-  - Rename `assets/minecraft/mcpatcher/-lightmap` to `assets/minecraft/mcpatcher/lightmap` to enable (requires Optifine)
+  - Rename `assets/minecraft/mcpatcher/-lightmap` to `assets/minecraft/mcpatcher/lightmap` to enable
+  - Requires Optifine
 - Smoother bedrock
 - Ore borders
 - Smoother dirt

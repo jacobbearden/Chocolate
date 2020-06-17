@@ -21,3 +21,6 @@
 - Red trapped chests
 - Highlighted Tripwires
 - Reduced [PGM](https://github.com/pgmdev/pgm) related sounds
+
+## download
+Head over to the [releases](https://github.com/jacobbearden/chocolate/releases) page for the latest version

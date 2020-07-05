@@ -19,7 +19,8 @@
 - Bow indicator
 - Smaller swords
 - Red trapped chests
-- Highlighted Tripwires
+- Highlighted tripwires
+- Highlighted monster eggs
 - Reduced [PGM](https://github.com/pgmdev/pgm) related sounds
 
 ## download

@@ -1,5 +1,5 @@
-# chocolate
-> Minecraft resource pack
+# Chocolate
+> Minecraft resource pack.
 
 ## changes
 - Optional Fullbright

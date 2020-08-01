@@ -21,6 +21,7 @@
 - Red trapped chests
 - Highlighted tripwires
 - Highlighted monster eggs
+- Altered splash text
 - Reduced [PGM](https://github.com/pgmdev/pgm) related sounds
 
 ## download

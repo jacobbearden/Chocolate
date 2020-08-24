@@ -1,7 +1,8 @@
 # Chocolate
 > Minecraft resource pack.
 
-## changes
+## Changes
+- 1.14+ base textures
 - Optional Fullbright
   - Rename `assets/minecraft/mcpatcher/-lightmap` to `assets/minecraft/mcpatcher/lightmap` to enable
   - Requires Optifine
@@ -22,7 +23,8 @@
 - Highlighted tripwires
 - Highlighted monster eggs
 - Altered splash text
+- No block particles
 - Reduced [PGM](https://github.com/pgmdev/pgm) related sounds
 
-## download
+## Download
 Head over to the [releases](https://github.com/jacobbearden/chocolate/releases) page for the latest version

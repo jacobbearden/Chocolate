@@ -5,6 +5,7 @@
 - 1.14+ base textures
 - Smoother bedrock
 - Ore borders
+- Universal ores
 - Smoother dirt
 - Shorter grass
 - Reduced fire
@@ -14,11 +15,14 @@
 - No block particles
 - HD font
 - Clear GUI
+- Brewing cheat sheet
 - Bow indicator
 - Smaller swords
 - Red trapped chests
 - Highlighted tripwires
 - Highlighted monster eggs
+- Sticky piston side texture
+- Hopper direction indicators
 - Altered splash text
 - Reduced [PGM](https://github.com/pgmdev/pgm) related sounds
 - Optional Fullbright

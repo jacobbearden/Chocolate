@@ -2,5 +2,12 @@
     "pack": {
         "pack_format": 1,
         "description": "Chocolate for Minecraft 1.8.9\nby Aefonix"
+    },
+    "language": {
+        "en_CT": {
+            "name": "English",
+            "region": "Color Text",
+            "bidirectional": false
+        }
     }
 }

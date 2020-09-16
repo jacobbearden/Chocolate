@@ -16,7 +16,6 @@
 - HD font
 - Clear GUI
 - Brewing cheat sheet
-- Bow indicator
 - Smaller swords
 - Red trapped chests
 - Highlighted tripwires

@@ -26,7 +26,7 @@
 - Altered splash text
 - Reduced [PGM](https://github.com/pgmdev/pgm) related sounds
 - Optional Fullbright
-  - Rename `assets/minecraft/mcpatcher/-lightmap` to `assets/minecraft/mcpatcher/lightmap` to enable
+  - Rename `assets/minecraft/optifine/-lightmap` to `assets/minecraft/optifine/lightmap` to enable
   - Requires Optifine
 
 ## Download

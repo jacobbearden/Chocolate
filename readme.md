@@ -23,6 +23,7 @@
 - Sticky piston side texture
 - Hopper direction indicators
 - Clearer cobwebs
+- Clearer doors/trapdoors
 - Altered splash text
 - Reduced [PGM](https://github.com/pgmdev/pgm) related sounds
 - Optional Fullbright

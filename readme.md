@@ -25,6 +25,8 @@
 - Clearer cobwebs
 - Clearer doors/trapdoors
 - Clearer leaves
+- Clean map background
+- Clearer sharpness and critical hit particles
 - Altered splash text
 - Reduced [PGM](https://github.com/pgmdev/pgm) related sounds
 - Optional Fullbright
